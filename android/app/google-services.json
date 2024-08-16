@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850560203567",
+    "project_id": "project-ppb-anjayy-kelazz",
+    "storage_bucket": "project-ppb-anjayy-kelazz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850560203567:android:0652c7d22183c9adc8bfda",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.project_ppb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3dd2voVDeTOVGVQMg0BxENFZq-npggDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
